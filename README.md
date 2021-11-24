@@ -7,4 +7,4 @@ I am passionate about learning, overcoming challenges, perfecting my skills, coo
 I am currently learning full-stack web development through Argentina Programa #YoProgramo, after having approved the previous stage #SéProgramar. This program is provided by the Ministry of Productive Development of Argentina and certified by CESSI (Chamber of the Argentine Software Industry). I also take a manual testing course with an introduction to the world of testing automation, dictated by the IT workers union AGC.
 
 ## Contact me
-[LinkedIn](https://www.linkedin.com/feed/) ♥ [Correo electrónico](mailto:wooli3000@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joanabugarin/) ♥ [Correo electrónico](mailto:wooli3000@gmail.com)
