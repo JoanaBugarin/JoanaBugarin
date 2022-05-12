@@ -9,9 +9,9 @@ I finished my full-stack web development apprenticeship through Argentina Progra
 ### Other ongoing training
 > Testing, dictated by the IT workers union AGC.  
 > Test Automation, the complete Selenium WebDriver with Java by Udemy.  
-> NodeJS, by Telecom digit@lers.
-> C# & .NET 6.0 dictated by Polo Tecnológico Mina Clavero.
-> Angular by Udemy.
+> NodeJS, by Telecom digit@lers.   
+> C# & .NET 6.0 dictated by Polo Tecnológico Mina Clavero.   
+> Angular by Udemy.   
 
 ## Contact me
 [LinkedIn](https://www.linkedin.com/in/joanabugarin/) ♥ [Correo electrónico](mailto:wooli3000@gmail.com)
