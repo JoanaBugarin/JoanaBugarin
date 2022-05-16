@@ -14,4 +14,4 @@ I finished my full-stack web development apprenticeship through Argentina Progra
 > Angular by Udemy.   
 
 ## Contact me
-[LinkedIn](https://www.linkedin.com/in/joanabugarin/) ♥ [Correo electrónico](mailto:wooli3000@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joanabugarin/) ♥ [Correo electrónico](mailto:joana.s.bugarin@gmail.com)
