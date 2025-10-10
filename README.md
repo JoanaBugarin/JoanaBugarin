@@ -1,17 +1,26 @@
-# Joana Soledad Bugarin
-> Developer full-stack & tester
+# Joana Soledad Bugarin  
+> Full-Stack Developer & Software Tester  
 
-## About me
-Hi, I’m Joana Soledad Bugarin. I was born the third of December, nineteen ninety one in Necochea, Buenos Aires province.
-I am passionate about learning, overcoming challenges, perfecting my skills, cooking, playing video games and role-playing games, reading all kinds of books and comics, living a healthy and happy life, traveling, watching series, movies and anime, and above all facing new experiences that improve my life.
-I finished my full-stack web development apprenticeship through Argentina Programa #YoProgramo on Dec 22, 2021. This program is provided by the Ministry of Productive Development of Argentina and certified by CESSI (Chamber of the Argentine Software Industry).
+## About Me  
+Hi! I'm Joan, a passionate full-stack developer and tester born on December 3rd, 1991 in Necochea, Buenos Aires Province, Argentina.  
 
-### Other ongoing training
-> Testing, dictated by the IT workers union AGC.  
-> Test Automation, the complete Selenium WebDriver with Java by Udemy.  
-> NodeJS, by Telecom digit@lers.   
-> C# & .NET 6.0 dictated by Polo Tecnológico Mina Clavero.   
-> Angular by Udemy.   
+I thrive on learning, overcoming challenges, refining my skills, and embracing new experiences that enrich my life. I enjoy cooking, playing video games and tabletop RPGs, reading books and comics of all genres, living a healthy and joyful life, traveling, and watching series, movies, and anime.  
 
-## Contact me
-[LinkedIn](https://www.linkedin.com/in/joanabugarin/) ♥ [Correo electrónico](mailto:joana.s.bugarin@gmail.com)
+I completed my full-stack web development training through **Argentina Programa #YoProgramo** on December 22, 2021. This initiative is supported by the Ministry of Productive Development of Argentina and certified by **CESSI** (Chamber of the Argentine Software Industry).  
+
+Additionally, I pursued academic studies in **TUDAI** (University Technical Degree in Application Development) at **UNICEN** (National University of the Center of the Province of Buenos Aires).  
+
+## Ongoing Training  
+- Software Testing – AGC (IT Workers Union)  
+- Test Automation – *Selenium WebDriver with Java* (Udemy)  
+- Node.js – *Telecom digit@lers*  
+- C# & .NET 6.0 – *Polo Tecnológico Mina Clavero*  
+- Angular – *Udemy*  
+
+## Contact  
+- [LinkedIn](https://www.linkedin.com/in/joanabugarin/)  
+- [Email](mailto:joana.s.bugarin@gmail.com)  
+
+## Personal Note  
+I identify as **gender-fluid**, and you are welcome to refer to me using any pronouns.  
+
