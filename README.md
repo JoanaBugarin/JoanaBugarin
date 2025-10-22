@@ -8,7 +8,7 @@ I thrive on learning, overcoming challenges, refining my skills, and embracing n
 
 I completed my full-stack web development training through **Argentina Programa #YoProgramo** on December 22, 2021. This initiative is supported by the Ministry of Productive Development of Argentina and certified by **CESSI** (Chamber of the Argentine Software Industry).  
 
-Additionally, I pursued academic studies in **TUDAI** (University Technical Degree in Application Development) at **UNICEN** (National University of the Center of the Province of Buenos Aires).  
+Additionally, I completed a University Technician Degree (**TUDAI:** University Technical Degree in Application Development) at **UNICEN** (National University of the Center of the Province of Buenos Aires).  
 
 ## Additional Training  
 - Software Testing – AGC (IT Workers Union)  
