@@ -10,7 +10,7 @@ I completed my full-stack web development training through **Argentina Programa 
 
 Additionally, I pursued academic studies in **TUDAI** (University Technical Degree in Application Development) at **UNICEN** (National University of the Center of the Province of Buenos Aires).  
 
-## Ongoing Training  
+## Additional Training  
 - Software Testing – AGC (IT Workers Union)  
 - Test Automation – *Selenium WebDriver with Java* (Udemy)  
 - Node.js – *Telecom digit@lers*  
